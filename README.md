@@ -11,7 +11,7 @@ The first team is writing down the requirements of the project while keeping als
 The second team is responsible to make a summary of the essay of the first team and with the use of Powerpoint to create a presentation of the project.
 
 ### 3. AI & Machine Learning
-The third team is responsible for creating the datasets, train the model using google teachable machines and produce a json file with the trained model
+The third team is responsible for creating the datasets, train the model using google teachable machines and produce a json file with the trained model. Trained model at https://teachablemachine.withgoogle.com/models/3cMMXHn2V/
 
 ### 4. Implementation
 The fourth team is responsible to implement the project using the requirements of the first team and the trained model of the third team.
